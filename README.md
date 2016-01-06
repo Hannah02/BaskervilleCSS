@@ -1,5 +1,5 @@
 # Baskerville CSS exercise
-[Version 1] (https://github.com/Hannah02/BaskervilleCSS/index.html)
+[Version 1] (https://Hannah02.github.io/BaskervilleCSS/index.html)
 
 This exercise involved adding CSS to a html file in order to format it to look like this image-
 
